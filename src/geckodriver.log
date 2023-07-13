@@ -1,0 +1,72 @@
+1682236795932	geckodriver	INFO	Listening on 127.0.0.1:64708
+1682242050581	geckodriver	INFO	Listening on 127.0.0.1:59610
+1682330886920	geckodriver	INFO	Listening on 127.0.0.1:61867
+1682331857223	geckodriver	INFO	Listening on 127.0.0.1:62072
+1682353782195	geckodriver	INFO	Listening on 127.0.0.1:62224
+1682353996092	geckodriver	INFO	Listening on 127.0.0.1:62263
+1682758636961	geckodriver	INFO	Listening on 127.0.0.1:60933
+1682763784404	geckodriver	INFO	Listening on 127.0.0.1:63408
+1682763787576	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63409" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Samita\\AppData\\Local\\Temp\\rust_mozprofileubMczl"
+1682846749281	geckodriver	INFO	Listening on 127.0.0.1:64487
+1682846752368	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64488" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Samita\\AppData\\Local\\Temp\\rust_mozprofileP0n4pD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682846760830	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1682846760854	Marionette	INFO	Listening on port 64509
+Read port: 64509
+Read port: 64509
+WebDriver BiDi listening on ws://127.0.0.1:64488
+Read port: 64509
+1682846768380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 414))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Samita\\AppData\\Local\\Temp\\rust_mozprofileP0n4pD\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:64488/devtools/browser/caab05e3-64cf-4f82-89de-30f0a4804cb3
+1682847097683	Marionette	INFO	Stopped listening on port 64509
+Dynamically enable window occlusion 1
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+console.error: RemoteSecuritySettings.jsm: 
+  Failed to download attachment: TypeError: NetworkError: Network request failed
+!!! error running onStopped callback: TypeError: callback is not a function
+1682848016791	geckodriver	INFO	Listening on 127.0.0.1:49339
+1682848019819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49340" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Samita\\AppData\\Local\\Temp\\rust_mozprofile1PwOXR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682848020666	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1682848020682	Marionette	INFO	Listening on port 49350
+Read port: 49350
+WebDriver BiDi listening on ws://127.0.0.1:49340
+1682848021198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Samita\\AppData\\Local\\Temp\\rust_mozprofile1PwOXR\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 414))
+DevTools listening on ws://127.0.0.1:49340/devtools/browser/171c71c9-5a44-4f29-80ad-93e30a3a983c
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1682852524300	Marionette	INFO	Stopped listening on port 49350
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+refox.exe" "--marionette" "--remote-debugging-port" "49626" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Samita\\AppData\\Local\\Temp\\rust_mozprofiles98xlQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682848277377	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1682848277389	Marionette	INFO	Listening on port 49637
+Read port: 49637
+WebDriver BiDi listening on ws://127.0.0.1:49626
+1682848277759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Samita\\AppData\\Local\\Temp\\rust_mozprofiles98xlQ\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 414))
+DevTools listening on ws://127.0.0.1:49626/devtools/browser/5a631e5d-6f3a-4d21-8902-bc00c64f0014
+console.error: ({})
+JavaScript error: http://www.seleniumframework.com/wp-content/themes/dt-the7/js/desktop.min.js?ver=4.4.4, line 1: TypeError: c.browser is undefined
+JavaScript error: http://www.seleniumframework.com/wp-content/themes/dt-the7/js/main.min.js?ver=4.4.4, line 1: TypeError: e.browser is undefined
+JavaScript error: http://www.seleniumframework.com/wp-content/themes/dt-the7/js/main.min.js?ver=4.4.4, line 3: TypeError: e.browser is undefined
+1682848349040	Marionette	INFO	Stopped listening on port 49637
+Dynamically enable window occlusion 1
